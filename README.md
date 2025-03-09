@@ -1,4 +1,4 @@
-# Stack Mentor (FrontEnd) - Plataforma de Recursos para Bootcamp    
+# Stack Mentor (BackEnd) - Plataforma de Recursos para Bootcamp    
 
 ## Resumen del Proyecto
 Desarrollo de una plataforma web centralizada que funcione como un repositorio de recursos educativos. Esta plataforma permitirá a los estudiantes acceder a tutoriales, documentación, ejemplos de código y enlaces útiles sobre tecnologías clave como:
